@@ -1,0 +1,4 @@
+
+# NEXUS uses Python standard-library modules only.
+# Tkinter is included with most standard Python installations.
+# Optional local AI: install Ollama separately and download a model.
